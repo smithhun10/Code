@@ -113,6 +113,7 @@ ro.frp.pst=/dev/block/bootdevice/by-name/frp
 debug.sdm.support_writeback=0
 debug.renderengine.backend=threaded
 debug.sf.latch_unsignaled=0
+debug.sf.layer_caching_active_layer_timeout_ms=1000
 debug.sf.disable_backpressure=1
 debug.sf.disable_client_composition_cache=1
 debug.sf.enable_advanced_sf_phase_offset=1
